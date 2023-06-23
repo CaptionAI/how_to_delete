@@ -1,4 +1,4 @@
-# How To Delete
+# How To Delete Account
 
 In Caption AI, we prioritize user accessibility and data control. While we currently do not have a direct feature for account deletion within the app, we ensure you can manage your data effectively.
 
